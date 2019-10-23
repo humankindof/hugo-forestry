@@ -1,4 +1,12 @@
 ---
 label: Herbs
 hide_body: false
-fields: []
+fields:
+- name: intro
+  type: blocks
+  label: Intro
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Intro descrip
